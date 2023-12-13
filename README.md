@@ -19,20 +19,21 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
+<img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 
-- A passionate Front-end developer
+- A passionate Front-end developer 
 - Improving Web Development skills (React.js, Typescript)
 - Learning coding for cross platforms on mobile (Flutter - Dart)
 - Designing UI/UX as much as creative
 - Playing CTFs at spare time (TryHackMe Top %1)
-- Advanced linux experience
+- Advanced Linux experience
+
 
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <h3 align="center">I also learning Kotlin for Android Development</h3>
 <img align="center" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif")>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 
 - 🔭 I’m currently working on **Project to improve communication of hearing impaired people**
 
