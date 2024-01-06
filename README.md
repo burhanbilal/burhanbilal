@@ -43,7 +43,7 @@
 
 - 📫 How to reach me **burhanbilalbusiness@gmail.com**
 
-- ⚡ Fun fact **Artificial intelligence won't destroy the world.**
+- ⚡ Fun fact **Artificial intelligence won't destroy the world. But our fear can destroy it. :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
