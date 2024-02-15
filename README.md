@@ -7,7 +7,7 @@
 </p>
 <p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Technology+is+a+magic..+L0v3+urself+&hearts;++;+Front-End+Developer,;Computer+Engineer+Student,;Cyber+Security+Expert,;Mobile+Developer,;UI/UX Designer,;TryHackMe+Top+%1" alt="Typing SVG" /></a> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Technology+is+a+magic..+L0v3+urself+&hearts;++;+Web+Developer,;Computer+Engineer+Student,;Cyber+Security+Expert,;Front-end+Developer,;UI/UX Designer,;TryHackMe+Top+%1" alt="Typing SVG" /></a> </p>
 </p>
 
 
