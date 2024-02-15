@@ -35,9 +35,9 @@
 
 - 🔭 I’m currently working on **Project to improve communication of hearing impaired people**
 
-- 🌱 I’m currently learning **React, Astro, Flutter, Typescript, Kotlin**
+- 🌱 I’m currently learning **React, Typescript**
 
-- 💬 Ask me about **Android Development, Web Development, Cyber Security, UI/UX Designing, Linux**
+- 💬 Ask me about **Web Development, Cyber Security, UI/UX Designing, Linux**
 
 - 📫 How to reach me **burhanbilalbusiness@gmail.com**
 
